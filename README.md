@@ -27,7 +27,7 @@ Terminal veya komut satırını açın:
 ```bash
 # Windows için
 python -m venv venv
-venv\Scripts\\activate
+venv\Scripts\\activate.bat
 
 # Mac/Linux için
 python3 -m venv venv
